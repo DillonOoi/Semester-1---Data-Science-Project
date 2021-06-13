@@ -1,0 +1,1 @@
+For my data science project, I utilized 10 methodologies to pinpoint the driving conditions that have the greatest effects on the frequency and severity of car accidents during the summer season of the United States.
